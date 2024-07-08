@@ -1,0 +1,1 @@
+../dist/webcomponentstemplate.umd.js

@@ -1,0 +1,15 @@
+{
+  "name": "server_test",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite --port=5051 --cors=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^5.3.3"
+  }
+}
